@@ -1,0 +1,14 @@
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.sdf
+*.suo
+*.user
+*.obj
+*.pdb
+*.ilk
+*.tlog/
+UpgradeLog*.XML
